@@ -1,0 +1,1 @@
+# HUANANZHI-X79-OS-X-Clover-OpenCore-Hotpatch
