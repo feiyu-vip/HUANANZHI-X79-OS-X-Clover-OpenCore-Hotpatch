@@ -29,10 +29,10 @@ English | 中文
 macOS Big Sur 11.01正式版 macOS Catalina 10.15& macOS Mojave 10.14
 ACPI补丁修复使用hotpatch方式，相关文件位于 /OC/ACPI。
 
-长期维护更新QQ群：2125162378  EFI文件拒绝伸手党，需要进群才能拿到文件，有什么问题可以QQ群问我。
+长期维护更新QQ群：978205262  EFI文件拒绝伸手党，需要进群才能拿到文件，有什么问题可以QQ群问我。
 ![image](https://github.com/feiyu-vip/HUANANZHI-X79-OS-X-Clover-OpenCore-Hotpatch/blob/main/211606841668_.pic_hd.jpg?raw=true)
 
-HUANANZHI-X79 EFI文件自取群  2125162378
+HUANANZHI-X79 EFI文件自取群  978205262
 
 
 
